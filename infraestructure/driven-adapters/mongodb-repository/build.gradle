@@ -1,0 +1,11 @@
+dependencies {
+    implementation project(':domain-model')
+    implementation project(':helpers-mongo-repository-commons')
+
+    compile 'org.springframework.boot:spring-boot-starter-data-mongodb-reactive'
+
+    testCompile 'de.flapdoodle.embed:de.flapdoodle.embed.mongo'
+    testCompile 'org.reactivecommons.utils:object-mapper:0.1.0'
+
+}
+

@@ -1,0 +1,246 @@
+image: gradle:jdk11
+
+
+variables:
+  CI_APP_NAME: "${CI_PROJECT_NAME}-${CI_BUILD_REF_NAME}"
+  APP_PORT: 80
+  APP_INTERNAL_PORT: 8080
+  GRADLE_USER_HOME: "$CI_PROJECT_DIR/.gradle"
+  GRADLE_OPTS: "-Dorg.gradle.daemon=true -Dorg.gradle.workers.max=2"
+  DOCKER_TLS_CERTDIR: ""
+  IMAGE_NAME: "${APP_ENV}/${CI_PROJECT_NAME}-${CI_BUILD_REF_NAME}"
+  CI_REGISTRY_IMAGE: $REGISTRY_HOST/$GCP_PROJECT_ID_DEV/$APP_ENV/$CI_PROJECT_NAME-$CI_BUILD_REF_NAME
+stages:
+  - build
+  - test
+  - analysis
+  - package
+  - deploy
+  - deploy_staging.post
+  - deploy_prod.post
+
+before_script:
+  - export GRADLE_USER_HOME=`pwd`/.gradle
+
+build:gradle:
+  image: openjdk:11
+  stage: build
+  script:
+    - chmod +x gradlew
+    - ./gradlew assemble
+  artifacts:
+    paths:
+      - applications/app-service/build/libs
+      - applications/app-service/build/resources
+    expire_in: 1 week
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: push
+    paths:
+      - applications/app-service/build/
+      - domain/model/build/
+      - domain/usecase/build/
+      - infraestructure/driven-adapters/firebase-auth/build/
+      - infraestructure/driven-adapters/mongodb-repository/build/
+      - infraestructure/entry-points/reactive-web/build/
+      - infraestructure/helpers/mongo-repository-commons/build/
+      - .gradle
+  only:
+    - develop
+
+test:check:
+  image: openjdk:11
+  stage: test
+  script:
+    - chmod +x gradlew
+    - ./gradlew check
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: pull
+    paths:
+      - applications/app-service/build/
+      - domain/model/build/
+      - domain/usecase/build/
+      - infraestructure/driven-adapters/firebase-auth/build/
+      - infraestructure/driven-adapters/mongodb-repository/build/
+      - infraestructure/entry-points/reactive-web/build/
+      - infraestructure/helpers/mongo-repository-commons/build/
+      - .gradle
+  only:
+    - develop
+
+test:report:
+  image: openjdk:11
+  stage: test
+  script:
+    - chmod +x gradlew
+    - ./gradlew jacocoTestReport
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: pull
+    paths:
+      - applications/app-service/build/
+      - domain/model/build/
+      - domain/usecase/build/
+      - infraestructure/driven-adapters/firebase-auth/build/
+      - infraestructure/driven-adapters/mongodb-repository/build/
+      - infraestructure/entry-points/reactive-web/build/
+      - infraestructure/helpers/mongo-repository-commons/build/
+      - .gradle
+  only:
+    - develop
+    - master
+
+sonarqube:analysis:
+  stage: analysis
+  script:
+    - chmod +x gradlew
+    - ./gradlew sonarqube -Dsonar.qualitygate.wait=true -Dsonar.projectKey=oursofka-back-sofkianos -Dsonar.organization=sofkatest -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=09cd5f4223615e3ca85316fc450f6a7d8ddb55de
+  allow_failure: true
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: pull
+    paths:
+      - applications/app-service/build/
+      - domain/model/build/
+      - domain/usecase/build/
+      - infraestructure/driven-adapters/firebase-auth/build/
+      - infraestructure/driven-adapters/mongodb-repository/build/
+      - infraestructure/entry-points/reactive-web/build/
+      - infraestructure/helpers/mongo-repository-commons/build/
+      - .gradle
+  only:
+    - develop
+
+docker:build:
+  stage: package
+  image: docker:latest
+  services:
+    - docker:dind
+  dependencies:
+    - build:gradle
+  before_script:
+    - docker login -u _json_key -p "$(cat $GRPS_GKEY_DEV)" https://$REGISTRY_HOST
+    - export DEPLOY_IMAGE_TAG=$(echo $CI_COMMIT_SHA | cut -c1-8)
+    - export REGISTRY_IMAGE=$(echo $CI_REGISTRY_IMAGE | sed -e 's,_,-,g')
+  script:
+    - docker build -f ./applications/app-service/Dockerfile -t "${IMAGE_NAME}" .
+    - docker tag $IMAGE_NAME $REGISTRY_IMAGE
+    - docker tag $IMAGE_NAME $REGISTRY_IMAGE:$DEPLOY_IMAGE_TAG
+    - docker push $REGISTRY_IMAGE:latest
+    - docker push $REGISTRY_IMAGE:$DEPLOY_IMAGE_TAG
+  only:
+    - develop
+
+develop_kubernetes:deploy:
+  stage: deploy
+  image: google/cloud-sdk:latest
+  before_script:
+    - export APP_ENV=develop
+    - export REGISTRY_IMAGE=$(echo $CI_REGISTRY_IMAGE | sed -e 's,_,-,g')
+    - export DEPLOY_IMAGE=$REGISTRY_IMAGE:$(echo $CI_COMMIT_SHA | cut -c1-8)
+    - export APP_NAME=$APP_ENV-$(echo $CI_APP_NAME | sed -e 's,_,-,g')
+    - export APP_NAMESPACE=$APP_ENV-namespace
+    - export APP_STATIC_IP=$APP_STATIC_IP_DEV
+    - gcloud auth activate-service-account --key-file $GRPS_GKEY_DEV --project $GCP_PROJECT_ID_DEV
+    - gcloud container clusters get-credentials $GRPS_CLUSTERNAME_DEV --zone $GRPS_CLUSTERNAME_ZONE_DEV
+  script:
+    - cd deployments/
+    - sed -i "s~__APP_NAME__~${APP_NAME}~" deployment.yaml service.yaml ingress.yaml
+    - sed -i "s~__APP_NAMESPACE__~${APP_NAMESPACE}~" deployment.yaml service.yaml namespace.yaml ingress.yaml
+    - sed -i "s~__APP_PORT__~${APP_PORT}~" service.yaml ingress.yaml
+    - sed -i "s~__APP_INTERNAL_PORT__~${APP_INTERNAL_PORT}~" deployment.yaml service.yaml
+    - sed -i "s~__DEPLOY_IMAGE__~${DEPLOY_IMAGE}~" deployment.yaml
+    - sed -i "s~__APP_STATIC_IP__~${APP_STATIC_IP}~" ingress.yaml
+    - kubectl apply -f namespace.yaml
+    - |
+      if kubectl apply -f deployment.yaml | grep -q unchanged; then
+          echo "=> Forzando la actualizacion del deployment"
+          kubectl patch -f deployment.yaml -p "{\"spec\":{\"template\":{\"metadata\":{\"annotations\":{\"ci-last-updated\":\"$(date +'%s')\"}}}}}"
+      else
+          echo "=> Deployment apply ha cambiado el objeto, no es necesario forzar la actualización de la imagen."
+      fi
+    - kubectl apply -f service.yaml || true
+    - kubectl apply -f ingress.yaml || true
+    - kubectl rollout status -f deployment.yaml
+  environment:
+    name: dev
+    url: http://dev-apioursofka.sofka.com.co/actuator
+  only:
+    - develop
+
+staging_kubernetes:deploy:
+  stage: deploy_staging.post
+  image: google/cloud-sdk:latest
+  before_script:
+    - export APP_ENV=staging
+    - export REGISTRY_IMAGE=$(echo $CI_REGISTRY_IMAGE | sed -e 's,_,-,g')
+    - export DEPLOY_IMAGE=$REGISTRY_IMAGE:$(echo $CI_COMMIT_SHA | cut -c1-8)
+    - export APP_NAME=$APP_ENV-$(echo $CI_APP_NAME | sed -e 's,_,-,g')
+    - export APP_NAMESPACE=$APP_ENV-namespace
+    - export APP_STATIC_IP=$APP_STATIC_IP_STAGING
+    - gcloud auth activate-service-account --key-file $GRPS_GKEY_STAGING --project $GCP_PROJECT_ID_STAGING
+    - gcloud container clusters get-credentials $GRPS_CLUSTERNAME_STAGING --zone $GRPS_CLUSTERNAME_ZONE_STAGING
+  script:
+    - cd deployments/
+    - sed -i "s~__APP_NAME__~${APP_NAME}~" deployment.yaml service.yaml ingress.yaml
+    - sed -i "s~__APP_NAMESPACE__~${APP_NAMESPACE}~" deployment.yaml service.yaml namespace.yaml ingress.yaml
+    - sed -i "s~__APP_PORT__~${APP_PORT}~" service.yaml ingress.yaml
+    - sed -i "s~__APP_INTERNAL_PORT__~${APP_INTERNAL_PORT}~" deployment.yaml service.yaml
+    - sed -i "s~__DEPLOY_IMAGE__~${DEPLOY_IMAGE}~" deployment.yaml
+    - sed -i "s~__APP_STATIC_IP__~${APP_STATIC_IP}~" ingress.yaml
+    - kubectl apply -f namespace.yaml
+    - |
+      if kubectl apply -f deployment.yaml | grep -q unchanged; then
+          echo "=> Forzando la actualizacion del deployment"
+          kubectl patch -f deployment.yaml -p "{\"spec\":{\"template\":{\"metadata\":{\"annotations\":{\"ci-last-updated\":\"$(date +'%s')\"}}}}}"
+      else
+          echo "=> Deployment apply ha cambiado el objeto, no es necesario forzar la actualización de la imagen."
+      fi
+    - kubectl apply -f service.yaml || true
+    - kubectl apply -f ingress.yaml || true
+    - kubectl rollout status -f deployment.yaml
+  environment:
+    name: staging
+    url: http://staging-apioursofka.sofka.com.co/actuator
+  when: manual
+  only:
+    - develop
+
+production_kubernetes:deploy:
+  stage: deploy_prod.post
+  image: google/cloud-sdk:latest
+  before_script:
+    - export APP_ENV=production
+    - export REGISTRY_IMAGE=$(echo $CI_REGISTRY_IMAGE | sed -e 's,_,-,g')
+    - export DEPLOY_IMAGE=$REGISTRY_IMAGE:$(echo $CI_COMMIT_SHA | cut -c1-8)
+    - export APP_NAME=$APP_ENV-$(echo $CI_APP_NAME | sed -e 's,_,-,g')
+    - export APP_NAMESPACE=$APP_ENV-namespace
+    - export APP_STATIC_IP=$APP_STATIC_IP_PROD
+    - gcloud auth activate-service-account --key-file $GRPS_GKEY_PROD --project $GCP_PROJECT_ID_PROD
+    - gcloud container clusters get-credentials $GRPS_CLUSTERNAME_PROD --zone $GRPS_CLUSTERNAME_ZONE_PROD
+  script:
+    - cd deployments/
+    - sed -i "s~__APP_NAME__~${APP_NAME}~" deployment.yaml service.yaml ingress.yaml
+    - sed -i "s~__APP_NAMESPACE__~${APP_NAMESPACE}~" deployment.yaml service.yaml namespace.yaml ingress.yaml
+    - sed -i "s~__APP_PORT__~${APP_PORT}~" service.yaml ingress.yaml
+    - sed -i "s~__APP_INTERNAL_PORT__~${APP_INTERNAL_PORT}~" deployment.yaml service.yaml
+    - sed -i "s~__DEPLOY_IMAGE__~${DEPLOY_IMAGE}~" deployment.yaml
+    - sed -i "s~__APP_STATIC_IP__~${APP_STATIC_IP}~" ingress.yaml
+    - kubectl apply -f namespace.yaml
+    - |
+      if kubectl apply -f deployment.yaml | grep -q unchanged; then
+          echo "=> Forzando la actualizacion del deployment"
+          kubectl patch -f deployment.yaml -p "{\"spec\":{\"template\":{\"metadata\":{\"annotations\":{\"ci-last-updated\":\"$(date +'%s')\"}}}}}"
+      else
+          echo "=> Deployment apply ha cambiado el objeto, no es necesario forzar la actualización de la imagen."
+      fi
+    - kubectl apply -f service.yaml || true
+    - kubectl apply -f ingress.yaml || true
+    - kubectl rollout status -f deployment.yaml
+  environment:
+    name: production
+    url: http://apioursofka.sofka.com.co/actuator
+  when: manual
+  only:
+    - develop

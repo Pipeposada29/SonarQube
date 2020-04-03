@@ -1,0 +1,303 @@
+### Basic Ingress
+
+GET http://34.102.244.51/actuator/health
+Accept: application/json
+
+> {%
+client.test("Request executed successfully", function() {
+  client.assert(response.status === 200, "Response status is not 200");
+});
+%}
+### Service Public
+GET http://34.102.244.51/actuator/health
+Accept: application/json
+
+> {%
+client.test("Request executed successfully", function() {
+  client.assert(response.status === 200, "Response status is not 200");
+});
+%}
+
+### Ingress
+GET http://34.102.244.51/v1/
+Accept: application/json
+
+> {%
+client.test("Request executed successfully", function() {
+  client.assert(response.status === 200, "Response status is not 200");
+});
+%}
+
+### Ingress
+GET http://34.102.244.51/v2/
+Accept: application/json
+
+> {%
+client.test("Request executed successfully", function() {
+  client.assert(response.status === 200, "Response status is not 200");
+});
+%}
+
+
+### Ingress
+GET http://34.102.244.51/actuator/health
+Accept: application/json
+
+> {%
+client.test("Request executed successfully", function() {
+  client.assert(response.status === 200, "Response status is not 200");
+});
+%}
+
+### Ingress
+GET http://34.102.244.51/workdone/register/getParameters?dateLong=1584385796000
+Accept: application/json
+uid: RXGRjMSQGrbcAUVtCOkVmHyTyIX2
+
+> {%
+client.test("Request executed successfully", function() {
+  client.assert(response.status === 200, "Response status is not 200");
+});
+%}
+
+### Send POST request with json body
+POST http://localhost:8080/workdone/register
+Content-Type: application/json
+uid: 4OMcXGDdj0ck7P08gXCVYLPpAQ32
+
+{
+  "date": 1593320400000,
+  "idProject": "c1948f41-6eee-4023-97a9-c560e1ba2a9f",
+  "description": "Prueba Backend ingreso minutos y horas.",
+  "hours":2,
+  "minutes":19,
+  "hoursType": "Normal"
+}
+
+### Insrte Businnes Group
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Compensar","companies":[{"nameClient":"Compensar"}]}
+
+
+### Insert Project  Inhouse Esteban Zapata
+POST http://localhost:8080/project/register
+Content-Type: application/json
+
+{"name":"Inhouse Esteban Zapata","nameCompany":"Protección","service":["Desarrollo"]}
+
+
+
+
+### Insert Sofkiano
+POST http://localhost:8080/sofkianos/register
+Content-Type: application/json
+
+{
+  "document" : "214411",
+  "typeDocument" : "CC",
+  "name" : "Felipe Posada",
+  "gender" : "M",
+  "entryCompanyDate" : 1527829200000,
+  "position" : "DESARROLLADOR JUNIOR",
+  "company" : "SFS CONSULTORES",
+  "area" : "Tecnica",
+  "typeOfContract" : "INDEFINIDO",
+  "office" : "Medellin",
+  "salary" : 1000000.0,
+  "flexibleSalary" : 500000.0
+}
+
+
+### Insert Sofkiano
+PUT http://localhost:8080/sofkianos/assignment/CC/1152710052
+Content-Type: application/json
+
+{
+  "projectName" : "OurSofka",
+  "service" : "Pruebas",
+  "startDate" : 1583125200000,
+  "releaseDate" : null,
+  "assigmentPercent" : 0.5,
+  "rate" : 0,
+  "rateType" : "hours",
+  "isBillable" : false
+}
+
+
+### Insert Sofkiano
+PUT http://localhost:8080/sofkianos/assignment/CC/1037632923
+Content-Type: application/json
+
+{
+  "projectName" : "KeyMetrics",
+  "service" : "Desarrollo",
+  "startDate" : 1559365200000,
+  "releaseDate" : null,
+  "assigmentPercent" : 0.5,
+  "rate" : 0,
+  "rateType" : "hours",
+  "isBillable" : false
+}
+
+
+### Insert Sofkiano
+PUT http://localhost:8080/sofkianos/assignment
+Content-Type: application/json
+
+{
+  "projectName" : "Pruebas",
+  "idCompany" : "43f27737-5951-40e6-8fea-ca5af1d89aa5",
+  "service" : "Desarrollo",
+  "startDate" : 1559365200000,
+  "releaseDate" : null,
+  "assigmentPercent" : 0.5,
+  "rate" : 0,
+  "rateType" : "hours",
+  "isBillable" : false
+}
+
+
+###
+GET http://34.102.244.51/identity/singIn?firebaseToken=eyJhbGciOiJSUzI1NiIsImtpZCI6IjgzYTczOGUyMWI5MWNlMjRmNDM0ODBmZTZmZWU0MjU4Yzg0ZGI0YzUiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiTWlndWVsIMOBbmdlbCBSaW9zIEN1YmlkZXMiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lHR1RpVlFhaEo4dUdCRThFVE02OWhLSE5XN2QzQXpOQVhDR1JaeVhxNVFNNFVPS09YM3ZMNm9UQUpFQ2VfdURBS2E1WDAwZXhlMEVDSjdDMFUwaUVxbklhcjVqcnNNdlk5YXJrUFg1aUJFczVib2h6NkxGTnhpck82SnFHRzhQX0xzNjZ6QlQ0NnhGOGExaVVUcGlibnBIWGJZX2hweS0zTEd3SlB1VXdndm8wZE5vSkpCMTczUWZkWDEyYTdUejFDSEVQNEJXRGJWam9NaDFTYVVFMEwtTE5IOUluLVJNenI5RHcyUE5SdFoxUEk3UkFidE9fTmNRcGJVTGUtZUdtYU9SanFvLVhmS0RTUHMzd3NBUjdlUV9wc2NwdzZuUzhpcEFaOWtLSnBhUTlnWEtZX3dLVkJuam04SnRncGVYMEIxMDl1VVh6NVBFVjlPbklzb2wzcnlwbkhMLWNoUlVIT3NXWmtRUmVxdGVlV2NVNUZ4V1VWNVZVaWpuU25oWE8wYnVyTmV0THFiUjJLRVhoY1V0LUN0cHdfdmxDU2U2akJrbmw0c1NQV2VjSkxWWkpPM0daeDI1N0VVVXRsc0FOa3hzNV83ZHNJQnFyd09qcDFDXzJjV3dvdG44SGNZOGktbzRWM3BXU2puWkwzTllmeE5TN3lPdkJBdDdiZl93cm5sLUxPUl9ZTXcxYzBWcWZMQldsTkZHTVE4YzltVlF0TXI1ZGRkb3Qwdm05Y1pxNFh0T3V0dzRmNXdYckdDNVc4eDZmS0lTcGpUU19sR3BzX2dTdEdHSGlYVHNMVkhERWpIX2hPVk9GR3hHSnpuWFIzRjBCVko5c2xvek83Z3o5Ml93OUxEdjdVZ1RISDBfSWdXaWp0Rk81S211SF9FSG5HeDd0UDdoR3RCaTN2TW1ETFhQaEVZU21FUVJZODVVYVh1Z2ZhcVRWdFVObXR0YVZhTGlnWmNFRktycW50VmtpTzcwcmliQUJ4STJXXzRSLXJFU1JJN2Q1TTEzZWdGRFgtRFA4IiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL3Nhbmd1aW5lLWhlYWxlci0yMzIyMTYiLCJhdWQiOiJzYW5ndWluZS1oZWFsZXItMjMyMjE2IiwiYXV0aF90aW1lIjoxNTg1NTI0MjE4LCJ1c2VyX2lkIjoiMk9oaFBhM1Y5UVVtSVFxN0NLRW5PbEZWRjNVMiIsInN1YiI6IjJPaGhQYTNWOVFVbUlRcTdDS0VuT2xGVkYzVTIiLCJpYXQiOjE1ODU1MjQyMTgsImV4cCI6MTU4NTUyNzgxOCwiZW1haWwiOiJtaWd1ZWwucmlvc0Bzb2ZrYS5jb20uY28iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjExMTcyNDg2OTYxMDYxNjIxNTAzNiJdLCJlbWFpbCI6WyJtaWd1ZWwucmlvc0Bzb2ZrYS5jb20uY28iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.h5XUQpqAlf4sOcx5RV240VYr8Ep8pKAhhxsASslCXT7t6mo4L9JPFYpZUA8TVIboXTFzzviixoqw-qDaYQFxa6uDytYoXgBQ1X_eDQbNnDGX_aROAJNrlKZBEbFgYNxTzWtMSrVZd8ydxKsJQvZ123r91L_wHwghU-awUsh3kT7MJjFpvJ3Zk0bcAV9bEkVbkezzSbwuL2ZL6BFSct49Z4wIHm522xMRp1537R5ZuR2Ha09LW1NoCN_pvTmIuBJcMGa3590Ed1XQMPo18Br55lUaDB9ZNpbltzFYScZf63Sj-tQhsn8ouS3hZqm5dpd32Y3DpXKIduRTDK5XPgg_tQ
+Content-Type: application/json
+
+###
+
+GET http://localhost:8080/identity/singIn?firebaseToken=eyJhbGciOiJSUzI1NiIsImtpZCI6IjgzYTczOGUyMWI5MWNlMjRmNDM0ODBmZTZmZWU0MjU4Yzg0ZGI0YzUiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiTWlndWVsIEFuZ2VsIFJpb3MiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDQuZ29vZ2xldXNlcmNvbnRlbnQuY29tLy1LUDFHU0lLWEp4cy9BQUFBQUFBQUFBSS9BQUFBQUFBQUFBQS9BS0YwNW5DZVd2VVJZMHVoTVNFTXoyMWRVd3hGdzVDWThRL3Bob3RvLmpwZyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9zYW5ndWluZS1oZWFsZXItMjMyMjE2IiwiYXVkIjoic2FuZ3VpbmUtaGVhbGVyLTIzMjIxNiIsImF1dGhfdGltZSI6MTU4NTUwNTQ2NiwidXNlcl9pZCI6IjM4Q0lsTk9OaDZab1kyQlc5RDA1ZVBUdzBjSTMiLCJzdWIiOiIzOENJbE5PTmg2Wm9ZMkJXOUQwNWVQVHcwY0kzIiwiaWF0IjoxNTg1ODgwMzA0LCJleHAiOjE1ODU4ODM5MDQsImVtYWlsIjoibWlndWVhZ2lsZUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjEwNjk5MDI0NDY1MzAwMzI0MTQ1OCJdLCJlbWFpbCI6WyJtaWd1ZWFnaWxlQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6Imdvb2dsZS5jb20ifX0.MfrWCz_ea75jeMi_Fm0n6pGYujJunNXpSuS_sqQdUP3leebP2xoelMQGYJh6NyhaDC7lm99gn1gcuA5L7zxMALsi6W5NXlVeVfp5Vn9UWztIXW5wOxeq51crc5KCUR_JMSoI7ESlyOuqWsKH5roMFCOdj9GT-EuBdMtOBBnX8QARSGex13eA2uKkLoUvRdWEw7nTGFicIu4gfMYCuOYv1K39guxHzDO5pSvzH5hJmuJ2zNCXohDi7UcVZ61VDR8ToPy7fhWCK9fhtbLa64xAHXcUIpc0ntBkEMATsD8YumapFqggCE7mFhY7PKt6iEznXdu3AhBQYHvX1-m17GJNmA
+Content-Type: application/json
+
+###
+
+### Insert Sofkiano
+POST http://localhost:8080/sofkianos/register
+Content-Type: application/json
+
+{"document":"75098652","typeDocument":"CC","name":"MIGUEL ANGEL RIOS CUBIDES","gender":"M","entryCompanyDate":1574035200,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":1000000,"flexibleSalary":500000, "email":"yorman.arango@sofka.com.co"}
+
+### Ingress Mon Mar 16 2020 19:09:56
+GET http://dev-apioursofka.sofka.com.co/workdone/register/getParameters?dateLong=1584385796000
+Accept: application/json
+uid: RXGRjMSQGrbcAUVtCOkVmHyTyIX2
+
+> {%
+client.test("Request executed successfully", function() {
+  client.assert(response.status === 200, "Response status is not 200");
+});
+%}
+
+
+
+### Ingress Mon Mar 16 2020 19:09:56
+GET http://staging-apioursofka.sofka.com.co/workdone/register/getParameters?dateLong=1584385796000
+Accept: application/json
+uid: RXGRjMSQGrbcAUVtCOkVmHyTyIX2
+
+> {%
+client.test("Request executed successfully", function() {
+  client.assert(response.status === 200, "Response status is not 200");
+});
+%}
+
+
+### Ingress Mon Mar 02 2020 05:00:00
+GET http://localhost:8080/workdone/register/getParameters?dateLong=1583125200000
+Accept: application/json
+uid: RXGRjMSQGrbcAUVtCOkVmHyTyIX2
+
+> {%
+client.test("Request executed successfully", function() {
+  client.assert(response.status === 200, "Response status is not 200");
+});
+%}
+
+
+
+###
+GET http://localhost:8080/projects/companies
+Accept: application/json
+
+###
+GET http://dev-apioursofka.sofka.com.co/projects/companies
+Accept: application/json
+
+###
+
+
+GET http://localhost:8080/workdone/getWorkDoneBetweenDates?startDate=1580446800000&endDate=1590469200000
+Accept: application/json
+uid: 4OMcXGDdj0ck7P08gXCVYLPpAQ32
+
+###
+GET http://34.102.244.51/projects/companies
+Accept: application/json
+uid: RXGRjMSQGrbcAUVtCOkVmHyTyIX2
+
+###
+
+
+
+### Insert Sofkiano
+PUT http://localhost:8080/sofkianos/assignment
+Content-Type: application/json
+uid: 4OMcXGDdj0ck7P08gXCVYLPpAQ32
+
+{
+  "projectName" : "Pruebas",
+  "idCompany" : "43f27737-5951-40e6-8fea-ca5af1d89aa5",
+  "service" : "Desarrollo",
+  "startDate" : 1559365200000,
+  "releaseDate" : null,
+  "assigmentPercent" : 0.5,
+  "rate" : 0,
+  "rateType" : "hours",
+  "isBillable" : false
+}
+
+###
+
+
+### Ingress Mon Mar 02 2020 05:00:00
+GET http://dev-apioursofka.sofka.com.co/workdone/register/getParameters?dateLong=1585283492009
+Accept: application/json
+uid: RXGRjMSQGrbcAUVtCOkVmHyTyIX2
+
+> {%
+client.test("Request executed successfully", function() {
+  client.assert(response.status === 200, "Response status is not 200");
+});
+%}
+
+### Ingress Mon Mar 02 2020 05:00:00
+GET http://staging-apioursofka.sofka.com.co/workdone/register/getParameters?dateLong=1585283492009
+Accept: application/json
+uid: RXGRjMSQGrbcAUVtCOkVmHyTyIX2
+
+> {%
+client.test("Request executed successfully", function() {
+  client.assert(response.status === 200, "Response status is not 200");
+});
+%}
+
+###
+### Ingress Mon Mar 02 2020 05:00:00
+GET http://apioursofka.sofka.com.co/workdone/register/getParameters?dateLong=1585283492009
+Accept: application/json
+uid: RXGRjMSQGrbcAUVtCOkVmHyTyIX2
+
+> {%
+client.test("Request executed successfully", function() {
+  client.assert(response.status === 200, "Response status is not 200");
+});
+%}
+
+###
+
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"32244333","typeDocument":"CC","name":"ADRIANA JIMENEZ GIRALDO","gender":"F","entryCompanyDate":1583193600000,"position":"Scrum Master","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"adriana.jimenez@sofka.com.co"}
+
+###

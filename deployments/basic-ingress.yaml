@@ -1,0 +1,15 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  annotations:
+    kubernetes.io/ingress.global-static-ip-name: web-static-ip-staging
+  name: staging-oursofka-back-sofkianos-develop-ingress
+  namespace: staging-namespace-apps
+spec:
+  rules:
+    - http:
+        paths:
+          - backend:
+              serviceName: staging-oursofka-back-sofkianos-develop-service
+              servicePort: 80
+            path: /*

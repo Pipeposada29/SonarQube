@@ -1,0 +1,114 @@
+### Insert Businnes Group Compensar
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Compensar","companies":[{"nameClient":"Compensar"}]}
+### Insert Businnes Group Coordinadora
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Coordinadora","companies":[{"nameClient":"Coordinadora"}]}
+### Insert Businnes Group Éxito
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Éxito","companies":[{"nameClient":"Éxito"}]}
+### Insert Businnes Group Federacion de Municipios
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Federacion de Municipios","companies":[{"nameClient":"Federacion de Municipios"}]}
+### Insert Businnes Group HiBot
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"HiBot","companies":[{"nameClient":"HiBot"}]}
+### Insert Businnes Group Internexa
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Internexa","companies":[{"nameClient":"Internexa"}]}
+### Insert Businnes Group Iteria
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Iteria","companies":[{"nameClient":"Iteria"}]}
+### Insert Businnes Group Metro
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Metro","companies":[{"nameClient":"Metro"}]}
+### Insert Businnes Group MooveIT
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"MooveIT","companies":[{"nameClient":"MooveIT"}]}
+### Insert Businnes Group Pactia
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Pactia","companies":[{"nameClient":"Pactia"}]}
+### Insert Businnes Group PerTrinum
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"PerTrinum","companies":[{"nameClient":"PerTrinum"}]}
+### Insert Businnes Group Productos
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Productos","companies":[{"nameClient":"Productos"}]}
+### Insert Businnes Group Protección
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Protección","companies":[{"nameClient":"Protección"}]}
+### Insert Businnes Group SAP
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"SAP","companies":[{"nameClient":"SAP"}]}
+### Insert Businnes Group SAS
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"SAS","companies":[{"nameClient":"SAS"}]}
+### Insert Businnes Group Sistecredito
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Sistecredito ","companies":[{"nameClient":"Sistecredito "}]}
+### Insert Businnes Group SURA
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"SURA","companies":[{"nameClient":"SURA SALUD"}, {"nameClient":"SURA ARL"}, {"nameClient":"SURA"}, {"nameClient":"SURA SGUROS"}, {"nameClient":"SURA CORP"}]}
+### Insert Businnes Group Tecnoquímicas
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Tecnoquímicas","companies":[{"nameClient":"Tecnoquímicas"}]}
+### Insert Businnes Group Teleperformance
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Teleperformance","companies":[{"nameClient":"Teleperformance"}]}
+### Insert Businnes Group Todo1
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Todo1","companies":[{"nameClient":"Todo1"}]}
+### Insert Businnes Group UruIT
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"UruIT","companies":[{"nameClient":"UruIT"}]}
+
+
+### Insert Businnes Sofka
+POST http://localhost:8080/businessgroups/register
+Content-Type: application/json
+
+{"name":"Sofka","companies":[{"nameClient":"Sofka"}]}
+
+###

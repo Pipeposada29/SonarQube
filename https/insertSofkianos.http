@@ -1,0 +1,1292 @@
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"32244333","typeDocument":"CC","name":"ADRIANA JIMENEZ GIRALDO","gender":"F","entryCompanyDate":1583193600000,"position":"Scrum Master","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"adriana.jimenez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1044504709","typeDocument":"CC","name":"ALBA RUBY PEÑA LONDOÑO","gender":"F","entryCompanyDate":1560902400000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"alba.londono@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"43874058","typeDocument":"CC","name":"ALEJANDRA POSADA DE VILLA","gender":"F","entryCompanyDate":1580774400000,"position":"Analista Administrativa","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"contacto@fund4me.co "}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017216539","typeDocument":"CC","name":"ALEJANDRO CARMONA VERA","gender":"M","entryCompanyDate":1550016000000,"position":"Consultor SAP Bilingüe ","company":"SOFKA ","area":"Técnica","typeOfContract":"OBRA O LABOR","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"alejandro.carmona@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1020456958","typeDocument":"CC","name":"ALEJANDRO ESCARPETA GUTIERREZ ","gender":"M","entryCompanyDate":1539129600000,"position":"Desarrollador Semi Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"alejandro.escarpeta@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"71292659","typeDocument":"CC","name":"ALEJANDRO ESTEBAN DAZA LONDOÑO","gender":"M","entryCompanyDate":1555286400000,"position":"Desarrollador Senior ","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"alejandro.daza@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017257234","typeDocument":"CC","name":"ALEJANDRO USME GALLEGO","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"alejandro.usme@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1015186019","typeDocument":"TI","name":"ALEJANDRO VARGAS CARRILLO","gender":"M","entryCompanyDate":1578355200000,"position":"Desarrollador Junior Training","company":"SOFKA ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"alejandro.vargas@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1020446796","typeDocument":"CC","name":"ALEXANDER DE JESUS GALEANO LARREA","gender":"M","entryCompanyDate":1574640000000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"alexander.galeano@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1035871355","typeDocument":"CC","name":"ALEXANDER JIMENEZ ECHVERRI","gender":"M","entryCompanyDate":1557705600000,"position":"Desarrollador Junior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"alexander.jimenez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1123638380","typeDocument":"CC","name":"ALJADIS ADAN TAVERA BAYUELO","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"aljadis.tavera@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037573981","typeDocument":"CC","name":"ANA MARIA BEDOYA JARAMILLO","gender":"F","entryCompanyDate":1583107200000,"position":"Gerente de Ventas","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"ana.bedoya@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1094890208","typeDocument":"CC","name":"ANA MARIA QUINTERO LEAL ","gender":"F","entryCompanyDate":1510012800000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"ARMENIA","salary":0,"flexibleSalary":0, "email":"Jhoan.garcia@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"98709024","typeDocument":"CC","name":"ANDRES  FELIPE ALZATE ALVAREZ ","gender":"M","entryCompanyDate":1538956800000,"position":"Arquitecto de Software","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"andres.alzate@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1038359355","typeDocument":"CC","name":"ANDRES FELIPE LOPEZ MESA","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"andres.lopez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1025881738","typeDocument":"CC","name":"ANDRES FELIPE LOPEZ PADILLA","gender":"M","entryCompanyDate":1576627200000,"position":"Desarrollador Junior Training","company":"SOFKA ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"andres.lopezp@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1214719536","typeDocument":"CC","name":"ANDRES FELIPE MORA VELASQUEZ","gender":"M","entryCompanyDate":1567987200000,"position":"Analista de Tesorería y Nómina","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"tesorería@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1003851029","typeDocument":"CC","name":"ANDRES QUINTO QUINTO ","gender":"M","entryCompanyDate":1547424000000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"andres.quinto@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1098718816","typeDocument":"CC","name":"ANGEL DE JESUS VALBUENA NAVARRO","gender":"M","entryCompanyDate":1558915200000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"angel.valbuena@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1022333291","typeDocument":"CC","name":"ANGELICA MARIA CUERO TOVAR ","gender":"F","entryCompanyDate":1549238400000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"angelica.cuero@sofka.com.co "}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1026290078","typeDocument":"CC","name":"ANGIE MARCELA VARGAS PARDO","gender":"F","entryCompanyDate":1541030400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"angie.vargas@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"557750","typeDocument":"CE","name":"ANNGI STEFANIA ALVARADO BAZAN","gender":"F","entryCompanyDate":1574640000000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"anngi.alvarado@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036225091","typeDocument":"CC","name":"ARLEY ALFONSO REALES RUIZ","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"arley.reales@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"23438403","typeDocument":"CC","name":"AURA DELIA MUÑOZ SAMACA","gender":"F","entryCompanyDate":1566950400000,"position":"Analista Performance","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"aura.munoz@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1214719111","typeDocument":"CC","name":"BANEY GIOMAR ACOSTA MELO","gender":"M","entryCompanyDate":1561507200000,"position":"Analista de Ventas","company":"DIGITAL INTERACTIONS ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"baney.acosta@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"39167738","typeDocument":"CC","name":"BLANCA LIGIA OSPINA ARREDONDO ","gender":"F","entryCompanyDate":1511136000000,"position":"Auxiliar de Servicios Generales ","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"n/a"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1118831097","typeDocument":"CC","name":"BRAYHAN DE JESUS ZAMBRANO CASTELLANOS","gender":"M","entryCompanyDate":1558915200000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"brayhan.zambrano@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036967335","typeDocument":"CC","name":"BYRON ANDRES PEREZ CASTRO","gender":"M","entryCompanyDate":1580688000000,"position":"Aprendiz","company":"SOFKA ","area":"Administrativo","typeOfContract":"APRENDIZAJE - ETAPA LECTIVA","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"byron.perez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1110571510","typeDocument":"CC","name":"CAMILA ANDREA GAMBOA GUERRERO","gender":"F","entryCompanyDate":1574640000000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"camila.gamboa@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036927861","typeDocument":"CC","name":"CAMILO POSADA ANGEL ","gender":"M","entryCompanyDate":1531699200000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"camilo.posada@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1012388317","typeDocument":"CC","name":"CAMILO SNEIDER GARCIA VELANDIA","gender":"M","entryCompanyDate":1568678400000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"camilo.garcia@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1039460436","typeDocument":"CC","name":"CAMILO URIBE DIAZ","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"camilo.uribe@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1010166921","typeDocument":"CC","name":"CARLOS ALBERTO RAMIREZ OSORIO","gender":"M","entryCompanyDate":1563753600000,"position":"Desarrollador Junior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"carlos.ramirez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1033649317","typeDocument":"CC","name":"CARLOS FERNANDO VARGAS VELEZ ","gender":"M","entryCompanyDate":1533513600000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"carlos.vargas@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1127912336","typeDocument":"CC","name":"CARLOS MANUEL SALAMANCA BAZAN","gender":"M","entryCompanyDate":1557100800000,"position":"Desarrollador SAP Training","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"carlos.salamanca@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1094924654","typeDocument":"CC","name":"CHRISTIAN DAVID ALVAREZ GARCIA","gender":"M","entryCompanyDate":1517788800000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"christian.alvarez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152469675","typeDocument":"CC","name":"CRISTHIAN DAVID MONGUI SANCHEZ","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"cristhian.mongui@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1099548230","typeDocument":"CC","name":"CRISTIAN CAMILO MIRA PULGARIN ","gender":"M","entryCompanyDate":1528156800000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"cristian.mira@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017225762","typeDocument":"CC","name":"CRISTIAN DAVID MONTOYA CRUZ","gender":"M","entryCompanyDate":1583107200000,"position":"Desarrollador Semi Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"cristian.montoya@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1070962876","typeDocument":"CC","name":"CRISTIAN JOHAN MEDINA GOMEZ","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"cristian.medina@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"75106745","typeDocument":"CC","name":"CRISTIAN ROGELIO VILLA RAMOS","gender":"M","entryCompanyDate":1576454400000,"position":"Gerente de Proyectos","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"cristian.villa@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017229106","typeDocument":"CC","name":"DANIEL GOMEZ GRAJALES","gender":"M","entryCompanyDate":1560816000000,"position":"Desarrollador Junior Training","company":"DIGITAL INTERACTIONS ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"daniel.gomez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1214735811","typeDocument":"CC","name":"DANIELA DIAZ LONDOÑO","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"daniela.diaz@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1019034156","typeDocument":"CC","name":"DANNY ALEJANDRO OSPINA CEBALLOS","gender":"M","entryCompanyDate":1517443200000,"position":"Administrador Senior de Plataforma ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"danny.ospina@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1041325808","typeDocument":"CC","name":"DAVID ALEJANDRO MARIN ALZATE ","gender":"M","entryCompanyDate":1547424000000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"david.marin@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036961515","typeDocument":"CC","name":"DAVID ESTEBAN ZABALETA FRANCO","gender":"M","entryCompanyDate":1574035200000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"david.zabaleta@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152713315","typeDocument":"CC","name":"DAVID VASQUEZ RIOS","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"david.vasquez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017184574","typeDocument":"CC","name":"DEIBI JOHAN OCAMPO LOPEZ","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"deibi.ocampo@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1216716851","typeDocument":"CC","name":"DIANA MARCELA RUIZ RUEDA","gender":"F","entryCompanyDate":1558915200000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"diana.ruiz@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1038132778","typeDocument":"CC","name":"DIANA MILEIDY GIRALDO FRANCO","gender":"F","entryCompanyDate":1513555200000,"position":"Desarrollador Junior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"diana.giraldo@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"16079494","typeDocument":"CC","name":"DIEGO ALEJANDRO CARDONA LONDOÑO","gender":"M","entryCompanyDate":1509321600000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"diego.cardona@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1035872506","typeDocument":"CC","name":"DIEGO ALEXIS ALVAREZ CASTILLO","gender":"M","entryCompanyDate":1557100800000,"position":"Desarrollador Junior","company":"DIGITAL INTERACTIONS ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"diego.alvarez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152693102","typeDocument":"CC","name":"DIEGO JESUS UBARNES MARTINEZ","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"diego.ubarnes@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1094885319","typeDocument":"CC","name":"DIEGO LUIS GARAVITO HENAO","gender":"M","entryCompanyDate":1544400000000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"diego.garavito@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"71270175","typeDocument":"CC","name":"DUBAN HERNANDO MEJÍA AGUDELO","gender":"M","entryCompanyDate":1524528000000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"duban.mejia@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017172772","typeDocument":"CC","name":"DUVAN ARLEY PALACIO OSORIO","gender":"M","entryCompanyDate":1497312000000,"position":"Analista de Soporte Funcional","company":"DIGITAL INTERACTIONS ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"duvan.palacio@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1110577664","typeDocument":"CC","name":"DUVAN FELIPE OSSA CUELLAR ","gender":"M","entryCompanyDate":1580688000000,"position":"Desarrollador Junior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"duvan.ossa@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"98659408","typeDocument":"CC","name":"EDISON ALBERTO CORRALES ARBOLEDA","gender":"M","entryCompanyDate":1566259200000,"position":"Service Manager","company":"SOFKA ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"edison.corrales@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017212491","typeDocument":"CC","name":"EDISON DAVID VASQUEZ LONDOÑO","gender":"M","entryCompanyDate":1542758400000,"position":"Analista Performance","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"edison.vasquez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1113523830","typeDocument":"CC","name":"EDUARD ALEXIS SANCHEZ RAMIREZ","gender":"M","entryCompanyDate":1517184000000,"position":"Desarrollador Fullstack","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"Eduard.sanchez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"568338","typeDocument":"CE","name":"EDUARDO LUIS AGUILAR LEMUS","gender":"M","entryCompanyDate":1543363200000,"position":"Desarrollador Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"eduardo.agular@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036943756","typeDocument":"CC","name":"ELKIN ALEXIS PIEDRAHITA BEDOYA","gender":"M","entryCompanyDate":1504483200000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"elkin.piedrahita@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037662164","typeDocument":"CC","name":"EMMANUEL MONTES SERNA","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"emmanuel.montes@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1026148163","typeDocument":"CC","name":"ERIKA TATIANA SUAREZ CASTAÑEDA","gender":"F","entryCompanyDate":1574640000000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"erika.suarez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036648452","typeDocument":"CC","name":"ESTEBAN GARCIA MARIN","gender":"M","entryCompanyDate":1435190400000,"position":"Desarrollador Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"esteban.garcia@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036626558","typeDocument":"CC","name":"ESTEBAN ZAPATA HINCAPIE","gender":"M","entryCompanyDate":1454284800000,"position":"Desarrollador Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"esteban.zapata@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1085326640","typeDocument":"CC","name":"ESTEFANO JESUS PORTILLA PORTILLO ","gender":"M","entryCompanyDate":1531699200000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"estefano.portilla@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1128430899","typeDocument":"CC","name":"EYLEN YURANI GIL GOMEZ","gender":"F","entryCompanyDate":1561507200000,"position":"Aprendiz","company":"SOFKA ","area":"Administrativo","typeOfContract":"APRENDIZAJE - ETAPA LECTIVA","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"NA"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1030547179","typeDocument":"CC","name":"FABIO ALEJANDRO SARMIENTO PELAEZ","gender":"M","entryCompanyDate":1549843200000,"position":"Arquitecto de Software","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"alejandro.sarmiento@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"71312350","typeDocument":"CC","name":"FABIO ANDRES VALENCIA CORRALES","gender":"M","entryCompanyDate":1518998400000,"position":"Líder Técnico","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"Fabio.valencia@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1214739441","typeDocument":"CC","name":"FARID YESID RICO FURNIELES ","gender":"M","entryCompanyDate":1543190400000,"position":"Líder Técnico","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"farid.rico@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1128274882","typeDocument":"CC","name":"FELIPE POSADA RESTREPO","gender":"M","entryCompanyDate":1530576000000,"position":"Agile Coach","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"felipe.posada@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1128462223","typeDocument":"CC","name":"FELIPE TORRES PENAGOS","gender":"M","entryCompanyDate":1575244800000,"position":"Desarrollador Semi Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"felipe.torres@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"80117857","typeDocument":"CC","name":"FERNANDO TORRES VARGAS ","gender":"M","entryCompanyDate":1580947200000,"position":"Desarrollador Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"fernando.torres@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036664587","typeDocument":"CC","name":"FRANCISCO JAVIER GOMEZ QUINTERO","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"francisco.gomez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1128419936","typeDocument":"CC","name":"GEILER CUESTA PALACIOS ","gender":"M","entryCompanyDate":1506902400000,"position":"Consultor de Integracion","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"geiler.palacios@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152202965","typeDocument":"CC","name":"GILBERTO ANTONIO DIAZ ORTIZ","gender":"M","entryCompanyDate":1520467200000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"gilberto.diaz@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1032400126","typeDocument":"CC","name":"GILDARDO QUITIAN MORENO ","gender":"M","entryCompanyDate":1517788800000,"position":"Desarrollador Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"gildardo.quitian@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1045023847","typeDocument":"CC","name":"GIOVANNY ALONSO GOMEZ QUINTERO ","gender":"M","entryCompanyDate":1547424000000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"giovanny.gomez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1045519955","typeDocument":"CC","name":"GLORIA MELISSA BARBA BOLIVAR ","gender":"F","entryCompanyDate":1547424000000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"melissa.barba@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"376817","typeDocument":"CE","name":"GOUTAM DUTTA","gender":"M","entryCompanyDate":1414800000000,"position":"Arquitecto de Integracion","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"goutam.dutta@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1128467638","typeDocument":"CC","name":"HAMILTON TABARES VILLADA","gender":"M","entryCompanyDate":1582502400000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"hamilton.tabares@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1077469915","typeDocument":"CC","name":"HARINSON PALACIOS RENTERIA","gender":"M","entryCompanyDate":1558915200000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"harinson.palacios@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1128389739","typeDocument":"CC","name":"HARRISON FELIX ALVAREZ LAVERDE ","gender":"M","entryCompanyDate":1541462400000,"position":"Desarrollador Semi Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"harrison.alvarez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1073322326","typeDocument":"CC","name":"HECTOR DAVID VERGARA TRIANA","gender":"M","entryCompanyDate":1528156800000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"hector.vergara@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152197240","typeDocument":"CC","name":"HERNAN DARIO PEREZ JARAMILLO","gender":"M","entryCompanyDate":1528156800000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"hernan.perez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1052383432","typeDocument":"CC","name":"HOLMAN ANDREY ESTEPA AVILA ","gender":"M","entryCompanyDate":1516060800000,"position":"Desarrollador Semi Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"holman.estepa@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"379446","typeDocument":"CE","name":"IGNACIO ALEJANDRO VILLA MARTIRENE","gender":"M","entryCompanyDate":1383264000000,"position":"Director de Planeación y Estrategia","company":"SOFKA ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"ignacio.villa@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"43592224","typeDocument":"CC","name":"ISABEL CRISTINA YEPES OCAMPO","gender":"F","entryCompanyDate":1550448000000,"position":"Service Manager","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"isabel.yepes@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"72346276","typeDocument":"CC","name":"JAIME LUIS MONSALVO PEREZ","gender":"M","entryCompanyDate":1558915200000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jaime.monsalvo@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1128282105","typeDocument":"CC","name":"JAVIER ANDRES MONTAÑO GUZMAN","gender":"M","entryCompanyDate":1583712000000,"position":"Agile Coach","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"javier.montano@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"98383644","typeDocument":"CC","name":"JAVIER ENRIQUEZ ORTEGA","gender":"M","entryCompanyDate":1513555200000,"position":"Desarrollador Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"javier.enriquez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036959774","typeDocument":"CC","name":"JEFFERSON ORLANDO PEREZ CARMONA","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jefferson.perez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1022364085","typeDocument":"CC","name":"JESSICA MARCELA LINARES SANCHEZ","gender":"F","entryCompanyDate":1557100800000,"position":"Desarrollador SAP Training","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jessica.linares@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036627352","typeDocument":"CC","name":"JESUS DARIO SIERRA PAEZ","gender":"M","entryCompanyDate":1562544000000,"position":"Desarrollador Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jesus.sierra@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1121939862","typeDocument":"CC","name":"JESUS DAVID CEBALLOS CASTILLO","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jesus.ceballos@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1104695858","typeDocument":"CC","name":"JESUS LEONARDO CASTELLANOS FORERO","gender":"M","entryCompanyDate":1477872000000,"position":"Desarrollador Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"leonardo.castellanos@sofka.com"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1033340573","typeDocument":"CC","name":"JEYFRIN JULIAN CASTRILLON RUIZ","gender":"M","entryCompanyDate":1531094400000,"position":"Desarrollador Junior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"Jeyfrin.castrillon@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1214714600","typeDocument":"CC","name":"JHOAN MARQUEZ CASTRILLON","gender":"M","entryCompanyDate":1581292800000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jhoan.marquez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"9736230","typeDocument":"CC","name":"JHON ALEXANDER LEON GUTIERREZ","gender":"M","entryCompanyDate":1583107200000,"position":"Scrum Master","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jhon.leon@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1000748674","typeDocument":"TI","name":"JIAN CARLO GALLEGO MEJÍA","gender":"M","entryCompanyDate":1576454400000,"position":"Desarrollador Junior Training","company":"SOFKA ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jian.gallego@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036934285","typeDocument":"CC","name":"JOHAN FERNANDO SANCHEZ CANO","gender":"M","entryCompanyDate":1574035200000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"johan.sanchez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1039463342","typeDocument":"CC","name":"JOHAN SEBASTIAN CALLE PATIÑO","gender":"M","entryCompanyDate":1567987200000,"position":"Consultor de Infraestructura","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"johan.calle@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036610125","typeDocument":"CC","name":"JOHAN SEBASTIAN GAVIRIA CORREA","gender":"M","entryCompanyDate":1562025600000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"johan.gaviria@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"80007489","typeDocument":"CC","name":"JOHN ALEJANDRO VEGA BELLO","gender":"M","entryCompanyDate":1577404800000,"position":"Gerente de Proyectos","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"john-vega@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017233311","typeDocument":"CC","name":"JOHN ALEXANDER RIOS GUISAO","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"john.rios@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037647623","typeDocument":"CC","name":"JOHN ANDERSON SANTA OTALVARO","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"john.santa@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"71262401","typeDocument":"CC","name":"JOHN EDISON MORENO MONSALVE","gender":"M","entryCompanyDate":1573516800000,"position":"Desarrollador Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"john.moreno@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152710052","typeDocument":"CC","name":"JOHN FELIPE POSADA HIDALGO","gender":"M","entryCompanyDate":1574035200000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"john.posada@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036665034","typeDocument":"CC","name":"JOHN FREDY MORALES GONZALEZ ","gender":"M","entryCompanyDate":1531699200000,"position":"Desarrollador Fullstack ","company":"DIGITAL INTERACTIONS ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"John.morales@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1020464796","typeDocument":"CC","name":"JONATHAN STIVEN BEDOYA OBANDO","gender":"M","entryCompanyDate":1549843200000,"position":"Consultor infraestructura SAS","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jonathan.bedoya@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152221264","typeDocument":"CC","name":"JORDAN FERNANDO ACOSTA MURILLO ","gender":"M","entryCompanyDate":1541030400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jordan.acosta@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"15347332","typeDocument":"CC","name":"JORGE ALBERTO CARO JIMENEZ","gender":"M","entryCompanyDate":1578355200000,"position":"Auxiliar de Servicios","company":"SOFKA ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jorge.caroj@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"8358972","typeDocument":"CC","name":"JORGE ANDRES SUAREZ SUAREZ ","gender":"M","entryCompanyDate":1531699200000,"position":"Analista de Soporte Funcional","company":"DIGITAL INTERACTIONS ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"andres.suarez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1143374339","typeDocument":"CC","name":"JORGE ELIECER CARO OLMOS ","gender":"M","entryCompanyDate":1541030400000,"position":"Desarrollador Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jorge.caro@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1013672947","typeDocument":"CC","name":"JORGE ELIECER JIMENEZ LEYTON","gender":"M","entryCompanyDate":1564358400000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"jorge.jimenez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152203106","typeDocument":"CC","name":"JORGE ELIECER MORENO PEREZ","gender":"M","entryCompanyDate":1567987200000,"position":"Desarrollador Junior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jorge.moreno@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"94336332111990","typeDocument":"PEP","name":"JORGE ENRIQUE CHAVEZ FERNANDEZ","gender":"M","entryCompanyDate":1562544000000,"position":"Desarrollador Junior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jorge.chavez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1112878462","typeDocument":"CC","name":"JORGE HUMBERTO GONGORA NAFORO","gender":"M","entryCompanyDate":1583107200000,"position":"Desarrollador RPA","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jorge.gongora@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1022098470","typeDocument":"CC","name":"JORGE LUIS HIGUITA ROBLEDO","gender":"M","entryCompanyDate":1541030400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jorge.higuita@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"98699224","typeDocument":"CC","name":"JORGE MARIO MONTES RESTREPO","gender":"M","entryCompanyDate":1383264000000,"position":"Arquitecto de Software","company":"DIGITAL INTERACTIONS ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jorge.montes@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"72272525","typeDocument":"CC","name":"JOSE ALFREDO DE LA ROSA FONTALVO","gender":"M","entryCompanyDate":1578355200000,"position":"Arquitecto de Software","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"jose.delarosa@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017247490","typeDocument":"CC","name":"JOSE DAVID GOMEZ TORO","gender":"M","entryCompanyDate":1574640000000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jose.gomez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037638905","typeDocument":"CC","name":"JOSE EFRAÍN TABARES RAMIREZ ","gender":"M","entryCompanyDate":1506297600000,"position":"Lider de Desarrollo Movil","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jose.tabares@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017229057","typeDocument":"CC","name":"JOSE LEONARDO PARRA AMARILES","gender":"M","entryCompanyDate":1574640000000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jose.parra@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1091657995","typeDocument":"CC","name":"JOSE LUIS LOZANO TAMAYO","gender":"M","entryCompanyDate":1580774400000,"position":"Desarrollador Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"jose.lozano@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1143344548","typeDocument":"CC","name":"JOSE LUIS PEREZ ALVARADO","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jose.perez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"8323387","typeDocument":"CC","name":"JOSE VICTOR ARIZA GUACA","gender":"M","entryCompanyDate":1540425600000,"position":"Desarrollador Semi Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"jose.ariza@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1107088881","typeDocument":"CC","name":"JOSUE DAVID SALDARRIAGA MESA","gender":"M","entryCompanyDate":1551657600000,"position":"Desarrollador Junior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"josue.saldarriaga@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1039465953","typeDocument":"CC","name":"JUAN ALBERTO ZAPATA ZAPATA","gender":"M","entryCompanyDate":1554076800000,"position":"Desarrollador Junior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.zapata@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1026147848","typeDocument":"CC","name":"JUAN CAMILO CAMARGO MONTES","gender":"M","entryCompanyDate":1582502400000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.camargo@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1110568712","typeDocument":"CC","name":"JUAN CAMILO CUBILLOS DIAZ","gender":"M","entryCompanyDate":1572220800000,"position":"Desarrollador Junior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.cubillos@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036945666","typeDocument":"CC","name":"JUAN CAMILO MUÑOZ BEDOYA","gender":"M","entryCompanyDate":1531699200000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.muñoz@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1020445347","typeDocument":"CC","name":"JUAN CAMILO ZAPATA LONDOÑO","gender":"M","entryCompanyDate":1571097600000,"position":"Agente SAP Bilingüe ","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juanc.zapata@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017161610","typeDocument":"CC","name":"JUAN DANIEL GUTIERREZ BOTERO","gender":"M","entryCompanyDate":1541030400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.gutierrez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"98670827","typeDocument":"CC","name":"JUAN DAVID PELAEZ CARDENAS","gender":"M","entryCompanyDate":1568764800000,"position":"Analista de Ventas","company":"DIGITAL INTERACTIONS ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.pelaez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1128430332","typeDocument":"CC","name":"JUAN DAVID RAMIREZ SANCHEZ","gender":"M","entryCompanyDate":1557100800000,"position":"Desarrollador SAP Training","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.ramirez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"71278822","typeDocument":"CC","name":"JUAN DIEGO VASCO MONCADA","gender":"M","entryCompanyDate":1486339200000,"position":"Quality Head","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.vasco@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037630365","typeDocument":"CC","name":"JUAN ESTEBAN CASTRILLON VELEZ","gender":"M","entryCompanyDate":1552953600000,"position":"Desarrollador Semi Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"Juan.castrillon@sofka.com.co "}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"98772372","typeDocument":"CC","name":"JUAN FELIPE GOMEZ VELEZ","gender":"M","entryCompanyDate":1571097600000,"position":"Arquitecto de Software","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.gomez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1020443074","typeDocument":"CC","name":"JUAN GUILLERMO ESPITALETA BENITEZ","gender":"M","entryCompanyDate":1574640000000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.espitaleta@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1214737259","typeDocument":"CC","name":"JUAN JOSE GARCIA SOSA","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.garcia@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036631103","typeDocument":"CC","name":"JUAN PABLO ESCOBAR TABORDA","gender":"M","entryCompanyDate":1574640000000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.escobar@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017242294","typeDocument":"CC","name":"JUAN PABLO MARIACA SALDARRIAGA","gender":"M","entryCompanyDate":1574035200000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.mariaca@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1040755640","typeDocument":"CC","name":"JUAN PABLO MARIN RENDON","gender":"M","entryCompanyDate":1450915200000,"position":"Líder Técnico","company":"DIGITAL INTERACTIONS ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.marin@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1040046288","typeDocument":"CC","name":"JUAN PABLO RIOS ARENAS","gender":"M","entryCompanyDate":1574640000000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juanp.rios@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1026136237","typeDocument":"CC","name":"JUAN SEBASTIAN CADAVID RODRIGUEZ","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"juan.cadavid@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1216720673","typeDocument":"CC","name":"JULIAN ANDRES QUIROZ TABORDA","gender":"M","entryCompanyDate":1558915200000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"julian.quiroz@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1020435341","typeDocument":"CC","name":"JULIAN CARDONA GALEANO","gender":"M","entryCompanyDate":1583712000000,"position":"Desarrollador Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"julian.cardona@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1001016190","typeDocument":"TI","name":"JULIAN STIVEN RAMIREZ LUJAN","gender":"M","entryCompanyDate":1576627200000,"position":"Desarrollador Junior Training","company":"SOFKA ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"julian.ramirez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"33369340","typeDocument":"CC","name":"JULIE ANDREA MORENO RODRIGUEZ","gender":"F","entryCompanyDate":1552867200000,"position":"Líder Área People Development","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"andrea.moreno@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"39452962","typeDocument":"CC","name":"JULY TATIANA AGUIRRE RAMIREZ","gender":"F","entryCompanyDate":1525737600000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"july.aguirre@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1072701377","typeDocument":"CC","name":"KAREN ALEJANDRA CALDERON MONCADA","gender":"F","entryCompanyDate":1551398400000,"position":"Líder Área Financiera y Administrativa","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"alejandra.calderon@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1113518413","typeDocument":"CC","name":"KAREN ALEXANDRA RAMIREZ MONTERO","gender":"F","entryCompanyDate":1562198400000,"position":"Scrum Master","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"karen.ramirez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1018442749","typeDocument":"CC","name":"KAREN ANDREA SILVERA SERRANO","gender":"F","entryCompanyDate":1578355200000,"position":"Scrum Master","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"karen.silvera@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1047491164","typeDocument":"CC","name":"KAREN JOSE BENEDETTI MERLANO","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"karen.benedetti@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036952030","typeDocument":"CC","name":"KELLY JOHANNA GOMEZ ARIAS","gender":"F","entryCompanyDate":1577059200000,"position":"Especialista de Atracción y Fidelización","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"kelly.gomez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1214744053","typeDocument":"CC","name":"KEVIN ARLEY HERNANDEZ CAMPO","gender":"M","entryCompanyDate":1562544000000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"kevin.hernandez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"24607088","typeDocument":"CC","name":"LAURA ANGELICA LONDOÑO MARIN","gender":"F","entryCompanyDate":1566259200000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"ARMENIA","salary":0,"flexibleSalary":0, "email":"laura.londono@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1006148885","typeDocument":"CC","name":"LAURA MELISA ORTIZ ROCHA","gender":"F","entryCompanyDate":1519603200000,"position":"Analista de People Development","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"melisa.ortiz@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1067891990","typeDocument":"CC","name":"LEIDER ARTURO TANOS ESTRELLA","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"leider.tanos@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"43589615","typeDocument":"CC","name":"LILIANA ESPERANZA ZULUAGA TRUJILLO","gender":"F","entryCompanyDate":1567382400000,"position":"Analista Administrativa","company":"LABINN","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"liliana.zuluaga@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"30238361","typeDocument":"CC","name":"LILIANA MONTES DIAZ","gender":"F","entryCompanyDate":1568592000000,"position":"Scrum Master","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"liliana.montes@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1039446611","typeDocument":"CC","name":"LINA MARCELA GOMEZ OROZCO","gender":"F","entryCompanyDate":1575417600000,"position":"Especialista de Desarrollo y Plan Carrera","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"lina.gomez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1013633642","typeDocument":"CC","name":"LINA PAOLA ALVAREZ BAUTISTA","gender":"F","entryCompanyDate":1559606400000,"position":"Analista de Ventas","company":"DIGITAL INTERACTIONS ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"lina.alvarez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1143119695","typeDocument":"CC","name":"LISBEY YURANI URREA MARIN","gender":"F","entryCompanyDate":1571875200000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"lisbey.urrea@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1035430810","typeDocument":"CC","name":"LUIS ALBERTO TUBERQUIA VELASQUEZ","gender":"M","entryCompanyDate":1558310400000,"position":"Desarrollador Junior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"luis.tuberquia@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1040743471","typeDocument":"CC","name":"LUIS ANDRES HINCAPIE RESTREPO","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"luis.hincapie@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1020472237","typeDocument":"CC","name":"LUIS CARLOS GUTIERREZ GUTIERREZ","gender":"M","entryCompanyDate":1574035200000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"luis.gutierrez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017128469","typeDocument":"CC","name":"LUIS FERLEY BEJARANO BURITICA","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"luis.bejarano@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1015426494","typeDocument":"CC","name":"LUIS FERNANDO ILLERA SANMARTIN","gender":"M","entryCompanyDate":1569196800000,"position":"Arquitecto de Software","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"luis.illera@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"70256940","typeDocument":"CC","name":"LUIS FERNANDO RESTREPO AGUDELO","gender":"M","entryCompanyDate":1574640000000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"luis.restrepo@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1067909847","typeDocument":"CC","name":"LUIS MANUEL TIRADO MONTALVO","gender":"M","entryCompanyDate":1528329600000,"position":"Ingeniero de Infraestructura Junior ","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"luis.tirado@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1098757711","typeDocument":"CC","name":"LUIS MIGUEL DIAZ MORALES","gender":"M","entryCompanyDate":1580083200000,"position":"Desarrollador Junior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"luis.diaz@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152471805","typeDocument":"CC","name":"LUIS MIGUEL MARRIAGA MONTEJO","gender":"M","entryCompanyDate":1541030400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"luis.marriaga@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"92537037","typeDocument":"CC","name":"LUIS ROBERTO VEGA PEREZ","gender":"M","entryCompanyDate":1578873600000,"position":"Lider de Soporte SAS","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"OBRA O LABOR","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"luis.vega@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1073239995","typeDocument":"CC","name":"LUISA FERNANDA CHAVARRO GALVIS ","gender":"F","entryCompanyDate":1539648000000,"position":"Desarrollador Training SAS","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"luisa.chavarro@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1124035320","typeDocument":"CC","name":"LUISA FERNANDA MONTOYA BUSTAMENTE ","gender":"F","entryCompanyDate":1554076800000,"position":"Especialista de Atracción y Fidelización","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"luisa.montoya@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152437041","typeDocument":"CC","name":"LUISA FERNANDA MONTOYA HERNANDEZ","gender":"F","entryCompanyDate":1574640000000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"fernanda.montoya@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1094952380","typeDocument":"CC","name":"LUISA MARIA VALDERRAMA CASTAÑO","gender":"F","entryCompanyDate":1558915200000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"luisa.valderrama@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"43725518","typeDocument":"CC","name":"LUZ INEZ PARRA MERINO ","gender":"F","entryCompanyDate":1548028800000,"position":"Auxiliar de Servicios Generales ","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"n/a"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1019003680","typeDocument":"CC","name":"MANUEL FERNANDO NEVADO BARRIGA","gender":"M","entryCompanyDate":1383609600000,"position":"Service Manager","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"manuel.nevado@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1115185654","typeDocument":"CC","name":"MANUEL FERNANDO SALAS RIVAS ","gender":"M","entryCompanyDate":1497916800000,"position":"Lider Sofka University","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"manuel.salas@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1128057980","typeDocument":"CC","name":"MANUEL FRANCISCO ARRIETA VALLEJO ","gender":"M","entryCompanyDate":1528156800000,"position":"Desarrollador Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"manuel.vallejo@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1004162381","typeDocument":"CC","name":"MANUEL JULIAN CHARRIS BLANCO ","gender":"M","entryCompanyDate":1547424000000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"manuel.charris@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1128268580","typeDocument":"CC","name":"MARIA ALEJANDRA GOMEZ PIEDRAHITA","gender":"F","entryCompanyDate":1558915200000,"position":"Scrum Master","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"maria.gomez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152215987","typeDocument":"CC","name":"MARIA CAMILA ZAPATA CORREA","gender":"F","entryCompanyDate":1574640000000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"maria.zapata@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1100956034","typeDocument":"CC","name":"MARIA FERNANDA RIOS CARDENAS","gender":"F","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"maria.rios@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037632923","typeDocument":"CC","name":"MARIANA MONTOYA DIAZ","gender":"F","entryCompanyDate":1547424000000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"mariana.montoya@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037657545","typeDocument":"CC","name":"MARIANA URIBE ARBELAEZ","gender":"F","entryCompanyDate":1580774400000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"mariana.uribe@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"43119184","typeDocument":"CC","name":"MARIBEL CARDENAS CANO","gender":"F","entryCompanyDate":1556755200000,"position":"Analista de Contabilidad","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"maribel.cardenas@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1003861","typeDocument":"CE","name":"MARIO CESAR ORTEGA RODRIGUEZ","gender":"M","entryCompanyDate":1563753600000,"position":"Desarrollador Semi Senior","company":"SOFKA ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"mario.ortega@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1098657879","typeDocument":"CC","name":"MARIO JULIAN BARON RUEDA","gender":"M","entryCompanyDate":1557100800000,"position":"Desarrollador Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"mario.baron@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1010118236","typeDocument":"CC","name":"MARIO VELEZ ANGEL","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"mario.velez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1066737209","typeDocument":"CC","name":"MARLON MANUEL MARTINEZ MARTINEZ","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"marlon.martinez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"400474","typeDocument":"CE","name":"MIGUEL ALEJANDRO PACHECO GONZALEZ","gender":"M","entryCompanyDate":1570406400000,"position":"Lider Solman","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"miguel.pacheco@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152438957","typeDocument":"CC","name":"MIGUEL ANGEL RAMIREZ ESCOBAR","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"miguel.ramirez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"75098652","typeDocument":"CC","name":"MIGUEL ANGEL RIOS CUBIDES ","gender":"M","entryCompanyDate":1542067200000,"position":"Gerente de Operaciones","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"miguel.rios@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037625556","typeDocument":"CC","name":"MIGUEL BOLIVAR OSORIO ","gender":"M","entryCompanyDate":1551657600000,"position":"Desarrollador Junior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"miguel.bolivar@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037587267","typeDocument":"CC","name":"MIGUEL DAVID PELAEZ LOPEZ","gender":"M","entryCompanyDate":1557705600000,"position":"Arquitecto de Software","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"miguel.pelaez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1124858364","typeDocument":"CC","name":"MILLER OSSA SAMBONI","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"miller.ossa@frow.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"32353086","typeDocument":"CC","name":"NATALIA ANDREA JARAMILLO OSPINA","gender":"F","entryCompanyDate":1566259200000,"position":"Analista Administrativa","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"administrativo@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017218372","typeDocument":"CC","name":"NATALIA JIMENEZ CIRO","gender":"F","entryCompanyDate":1574035200000,"position":"Especialista Sofka University","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"natalia.jimenez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1020768339","typeDocument":"CC","name":"NATALIA LORENA RUIZ VALENCIA","gender":"F","entryCompanyDate":1572220800000,"position":"Especialista de Atracción y Fidelización","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"natalia.ruiz@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"32258150","typeDocument":"CC","name":"NATALIA MARIA DURANGO FRANCO","gender":"F","entryCompanyDate":1562544000000,"position":"Gerente de Ventas","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"natalia.durango@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1127944858","typeDocument":"CC","name":"NATALY LEAL RODRIGUEZ ","gender":"F","entryCompanyDate":1526860800000,"position":"Desarrollador Semi Senior ","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"nataly.leal@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1075275998","typeDocument":"CC","name":"NELCY JULIETH PINTO AGUILERA","gender":"F","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"nelcy.pinto@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1024540347","typeDocument":"CC","name":"NELSON JAVIER GARZON GAMEZ","gender":"M","entryCompanyDate":1571097600000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"nelson.garzon@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037659123","typeDocument":"CC","name":"NESTOR ALEJANDRO DIAZ PACHECO","gender":"M","entryCompanyDate":1547424000000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"nestor.diaz@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1026151318","typeDocument":"CC","name":"NESTOR VELEZ VARGAS","gender":"M","entryCompanyDate":1551052800000,"position":"Arquitecto de Software","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"nestor.velez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017189124","typeDocument":"CC","name":"NEYFFER ANTONIO PALACIOS TELLO","gender":"M","entryCompanyDate":1558915200000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"neyffer.palacios@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1098800350","typeDocument":"CC","name":"NICOLAS ANDRES VILLAMIZAR REY","gender":"M","entryCompanyDate":1566345600000,"position":"Desarrollador Junior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"nicolas.villamizar@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1023946422","typeDocument":"CC","name":"NICOLAS LAITON OLARTE","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"nicolas.laiton@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"8433243","typeDocument":"CC","name":"OSCAR ANDRES PALACIO RAMIREZ","gender":"M","entryCompanyDate":1465171200000,"position":"Arquitecto de Software","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"oscar.palacio@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037615421","typeDocument":"CC","name":"OSCAR ARMANDO MORA MORALES","gender":"M","entryCompanyDate":1563148800000,"position":"Arquitecto de Software","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"oscar.mora@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017276066","typeDocument":"CC","name":"OSCAR DAVID MOSQUERA CAMACHO ","gender":"M","entryCompanyDate":1539043200000,"position":"Desarrollador Semi Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"oscar.mosquera@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"92540074","typeDocument":"CC","name":"OSCAR DAVID PATERNINA MENDEZ","gender":"M","entryCompanyDate":1529452800000,"position":"Desarrollador Semi Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"Oscar.paternina@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"777380","typeDocument":"CE","name":"OSCAR EDUARDO RIVERA ROMERO","gender":"M","entryCompanyDate":1573084800000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"oscar.rivera@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1083916791","typeDocument":"CC","name":"OSCAR JOHANNY VELANDIA MORA","gender":"M","entryCompanyDate":1558310400000,"position":"Desarrollador Junior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"oscar.velandia@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1047474094","typeDocument":"CC","name":"OSMAR PEÑA GONZALEZ","gender":"M","entryCompanyDate":1582502400000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"osmar.pena@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"71774413","typeDocument":"CC","name":"OTONIEL USUGA TOBON ","gender":"M","entryCompanyDate":1380585600000,"position":"Director de Operaciones","company":"SOFKA ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"otoniel.usuga@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"43999331","typeDocument":"CC","name":"PAULA ANDREA JARAMILLO SÁNCHEZ ","gender":"F","entryCompanyDate":1521504000000,"position":"Scrum Master","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"paula.jaramillo@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1128423605","typeDocument":"CC","name":"RAMIRO ANDRES MENESES MONTOYA","gender":"M","entryCompanyDate":1497312000000,"position":"Ingeniero de Infraestructura Junior ","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"ramiro.meneses@sofka.co.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1115069076","typeDocument":"CC","name":"RAUL ANDRES ALZATE GOMEZ","gender":"M","entryCompanyDate":1579478400000,"position":"Arquitecto de Software","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"raul.alzate@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1088972214","typeDocument":"CC","name":"RICARDO EFRAIN PALACIOS ORDOÑEZ ","gender":"M","entryCompanyDate":1531094400000,"position":"Desarrollador Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"ricardo.palacios@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1075681531","typeDocument":"CC","name":"ROBER ALBERTO MOLINA CAÑON","gender":"M","entryCompanyDate":1580083200000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"rober.molina@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1033651356","typeDocument":"CC","name":"RODRIGO ANTONIO CASTRILLON RESTREPO ","gender":"M","entryCompanyDate":1541462400000,"position":"Desarrollador Semi Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"rodrigo.castrillon@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"8161538","typeDocument":"CC","name":"ROMAN ESTEBAN MESA LONDOÑO","gender":"M","entryCompanyDate":1557100800000,"position":"Desarrollador SAP Training","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"roman.mesa@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"8164493","typeDocument":"CC","name":"RONALD EDWIN MONCADA DURANGO","gender":"M","entryCompanyDate":1574640000000,"position":"Lider de Soporte","company":"DIGITAL INTERACTIONS ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"ronald.moncada@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1031128385","typeDocument":"CC","name":"SANDRA CAROLINA LONDOÑO BARBOSA","gender":"F","entryCompanyDate":1564358400000,"position":"Test Manager","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"sandra.londono@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1027940523","typeDocument":"CC","name":"SANDRA CATALINA MANCO MUÑOZ","gender":"F","entryCompanyDate":1559606400000,"position":"Especialista de Felicidad Organizacional y SGSST","company":"SOFKA ","area":"Administrativo","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"catalina.manco@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1022097542","typeDocument":"CC","name":"SANTIAGO SALTAREN LASTRA","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"santiago.saltaren@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152686129","typeDocument":"CC","name":"SANTIAGO SERNA HIGUITA ","gender":"M","entryCompanyDate":1554681600000,"position":"Desarrollador Semi Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"santiago.serna@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1146441594","typeDocument":"CC","name":"SARA MUÑOZ HENAO","gender":"F","entryCompanyDate":1574640000000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"sara.munoz@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1193141881","typeDocument":"CC","name":"SEBASTIAN AGUIRRE VILLA","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"sebastian.aguirre@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152216935","typeDocument":"CC","name":"SEBASTIAN GUTIERREZ CORREA","gender":"M","entryCompanyDate":1558310400000,"position":"Diseñador UX/UI","company":"SOFKA ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"sebastian.gutierrez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1040746957","typeDocument":"CC","name":"SEBASTIAN HERNANDEZ CARO","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"sebastian.hernandez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1035873769","typeDocument":"CC","name":"SEBASTIAN HINCAPIE MARIN","gender":"M","entryCompanyDate":1573516800000,"position":"Desarrollador Semi Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"sebastian.hincapie@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152694421","typeDocument":"CC","name":"SEBASTIAN LEZCANO SUCERQUIA","gender":"M","entryCompanyDate":1563148800000,"position":"Lider de Infraestructura","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"sebastian.lezcano@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1036674210","typeDocument":"CC","name":"SEBASTIAN MARTINEZ MADRID","gender":"M","entryCompanyDate":1574035200000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"sebastian.martinez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"8028117","typeDocument":"CC","name":"SERGIO MAURICIO MESA LONDOÑO","gender":"M","entryCompanyDate":1552262400000,"position":"Arquitecto SAP","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"sergio.mesa@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"43843982","typeDocument":"CC","name":"SOL BEATRIZ RICO CADAVID","gender":"F","entryCompanyDate":1557100800000,"position":"Desarrollador SAP Training","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"sol.rico@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037659652","typeDocument":"CC","name":"STEVEN HENAO MEJIA","gender":"M","entryCompanyDate":1558915200000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"steven.henao@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037652785","typeDocument":"CC","name":"VALENTINA GARCIA AGUIRRE ","gender":"F","entryCompanyDate":1531699200000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"valentina.garcia@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1022094820","typeDocument":"CC","name":"VICTOR ALFONSO MORALES CARDONA","gender":"M","entryCompanyDate":1434412800000,"position":"Desarrollador Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MANIZALES","salary":0,"flexibleSalary":0, "email":"victor.morales@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1032490884","typeDocument":"CC","name":"VICTOR DANIEL RODRIGUEZ PAEZ","gender":"M","entryCompanyDate":1581379200000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"victor.rodriguez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1037572846","typeDocument":"CC","name":"VICTOR HUGO AGUDELO GIRALDO","gender":"M","entryCompanyDate":1395705600000,"position":"Líder de Producto","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"victor.agudelo@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1035233399","typeDocument":"CC","name":"WILDEY ALEJANDRO GALLEGO DURANGO","gender":"M","entryCompanyDate":1558915200000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"alejandro.gallego@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1000747405","typeDocument":"TI","name":"WILFER JULIAN GOMEZ CARDONA","gender":"M","entryCompanyDate":1576454400000,"position":"Desarrollador Junior Training","company":"SOFKA ","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"wilfer.gomez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1035440531","typeDocument":"CC","name":"WILLIAM ALBERTO ESTRADA ESCOBAR","gender":"M","entryCompanyDate":1581897600000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"william.estrada@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017225344","typeDocument":"CC","name":"WILLIAM ANDRES DIAZ CARDONA","gender":"M","entryCompanyDate":1558915200000,"position":"Analista de Automatizacion (Training)","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"william.diaz@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"79958852","typeDocument":"CC","name":"WILLIAM DAVID GOMEZ SATIZABAL","gender":"M","entryCompanyDate":1580688000000,"position":"Desarrollador Senior","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"BOGOTÁ","salary":0,"flexibleSalary":0, "email":"william.gomez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1077176067","typeDocument":"CC","name":"WILLINGTONG ANDRES LOPEZ ZUÑIGA","gender":"M","entryCompanyDate":1559606400000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"willintong.lopez@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"98647142","typeDocument":"CC","name":"WILSON ANDRES OSORIO MUÑOZ","gender":"M","entryCompanyDate":1552348800000,"position":"Desarrollador Senior ","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"wilson.osorio@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1017209786","typeDocument":"CC","name":"YEISSON ALEXANDER OCHOA VILLA","gender":"M","entryCompanyDate":1557100800000,"position":"Desarrollador SAP Training","company":"LABINN","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"yeisson.ochoa@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1000532998","typeDocument":"CC","name":"YENI ALEJANDRA CORREA VALENCIA","gender":"F","entryCompanyDate":1569888000000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"yeni.correa@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1035865822","typeDocument":"CC","name":"YINNED VANESA ATEHORTUA GONZALEZ","gender":"F","entryCompanyDate":1582502400000,"position":"Analista de Automatización","company":"CONSULTORES SAT","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"yinned.atehortua@sofka.com.co"}
+### Insert Sofkiano
+POST http://apioursofka.sofka.com.co/sofkianos/register
+Content-Type: application/json
+
+{"document":"1152207075","typeDocument":"CC","name":"YORMAN ESNEYDER ARANGO GOMEZ","gender":"M","entryCompanyDate":1574035200000,"position":"Desarrollador Junior Training","company":"SFS CONSULTORES","area":"Técnica","typeOfContract":"INDEFINIDO","office":"MEDELLÍN","salary":0,"flexibleSalary":0, "email":"yorman.arango@sofka.com.co"}
+
+###

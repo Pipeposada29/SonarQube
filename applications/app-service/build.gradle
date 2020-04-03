@@ -1,0 +1,17 @@
+apply plugin: 'org.springframework.boot'
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter'
+    implementation project(":domain-model")
+    implementation project(":domain-usecase")
+    implementation 'com.google.firebase:firebase-admin:6.12.2'
+
+    compile project(":entry-points-reactive-web")
+
+
+    compile project(":driven-adapters-mongodb-repository")
+    compile project(":driven-adapters-firebase-auth")
+
+    compile 'org.reactivecommons.utils:object-mapper:0.1.0'
+    runtime('org.springframework.boot:spring-boot-devtools')
+}

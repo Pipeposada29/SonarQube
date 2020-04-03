@@ -1,0 +1,463 @@
+### Insert Project  Inhouse Esteban Zapata
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Inhouse Esteban Zapata","nameCompany":"Protección","service":["Desarrollo"]}
+### Insert Project  Desarrollo Sharepoint (Luis)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Desarrollo Sharepoint (Luis)","nameCompany":"Protección","service":["Desarrollo"]}
+### Insert Project  Inhouse Scrum Master (Leo Castellanos)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Inhouse Scrum Master (Leo Castellanos)","nameCompany":"Protección","service":["Agile"]}
+### Insert Project  Inhouse Integración (Geiler)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Inhouse Integración (Geiler)","nameCompany":"Protección","service":["Desarrollo"]}
+### Insert Project  Extras (soportes, dllos, ajustes fact)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Extras (soportes, dllos, ajustes fact)","nameCompany":"Protección","service":["Desarrollo"]}
+### Insert Project  Desarrollo Fábrica integración
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Desarrollo Fábrica integración","nameCompany":"Protección","service":["Desarrollo"]}
+### Insert Project  Celula Apolo Dsllo
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Celula Apolo Dsllo","nameCompany":"Protección","service":["Desarrollo"]}
+### Insert Project  Testing Apolo
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Testing Apolo","nameCompany":"Protección","service":["Calidad"]}
+### Insert Project  Agile testing + Pruebas Especiales
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Agile testing + Pruebas Especiales","nameCompany":"Protección","service":["Calidad"]}
+### Insert Project  Arquitecto de Plataforma SSR (Isabel Yepes)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Arquitecto de Plataforma SSR (Isabel Yepes)","nameCompany":"SAS","service":["Desarrollo"]}
+### Insert Project  Plataforma SR Colpatria (Holman Estepa)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Plataforma SR Colpatria (Holman Estepa)","nameCompany":"SAS","service":["Desarrollo"]}
+### Insert Project  Desarrollo Bancolombia SAS (Oscar Paternina)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Desarrollo Bancolombia SAS (Oscar Paternina)","nameCompany":"SAS","service":["Desarrollo"]}
+### Insert Project  Arquitecto de Plataforma Bogota - Danny Ospina
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Arquitecto de Plataforma Bogota - Danny Ospina","nameCompany":"SAS","service":["Desarrollo"]}
+### Insert Project  Plataforma SR Bogotá (Gildardo Quitian)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Plataforma SR Bogotá (Gildardo Quitian)","nameCompany":"SAS","service":["Desarrollo"]}
+### Insert Project  PM Bogotá Davivienda (Alejandro Vega)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"PM Bogotá Davivienda (Alejandro Vega)","nameCompany":"SAS","service":["Desarrollo"]}
+### Insert Project  Plataforma Medellin Bancolombia (Sebastian Martinez)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Plataforma Medellin Bancolombia (Sebastian Martinez)","nameCompany":"SAS","service":["Desarrollo"]}
+### Insert Project  Plataforma Medellin Bancolombia (Miguel Ramirez)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Plataforma Medellin Bancolombia (Miguel Ramirez)","nameCompany":"SAS","service":["Desarrollo"]}
+### Insert Project  Lider de Soporte Bogota (Luis Vega)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Lider de Soporte Bogota (Luis Vega)","nameCompany":"SAS","service":["Desarrollo"]}
+### Insert Project  Arquitecto ALM Bancolombia (Jonathan Bedoya)
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Arquitecto ALM Bancolombia (Jonathan Bedoya)","nameCompany":"SAS","service":["Desarrollo"]}
+### Insert Project  Servicios consultor Eduardo Aguilar
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Servicios consultor Eduardo Aguilar","nameCompany":"SAS","service":["Desarrollo"]}
+### Insert Project  Proyecto SGT
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Proyecto SGT","nameCompany":"Metro","service":["Desarrollo"]}
+### Insert Project  Proyecto CIC - Adición de contrato
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Proyecto CIC - Adición de contrato","nameCompany":"Metro","service":["Desarrollo"]}
+### Insert Project  Desarrollos Integraciones
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Desarrollos Integraciones","nameCompany":"Iteria","service":["Desarrollo"]}
+### Insert Project  Desarrollos Integraciones
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Desarrollos Integraciones","nameCompany":"Tecnoquímicas","service":["Desarrollo"]}
+### Insert Project  Travel Services
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Travel Services","nameCompany":"Teleperformance","service":["Desarrollo","Calidad"]}
+### Insert Project  Desarrollo Uber Eats
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Desarrollo Uber Eats","nameCompany":"Teleperformance","service":["Desarrollo"]}
+### Insert Project  Celula PITT
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Celula PITT","nameCompany":"Coordinadora","service":["Calidad"]}
+### Insert Project  Líder de Calidad
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Líder de Calidad","nameCompany":"Coordinadora","service":["Calidad"]}
+### Insert Project  Desarrollo
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Desarrollo","nameCompany":"Compensar","service":["Desarrollo"]}
+### Insert Project  Automatización de pruebas
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Automatización de pruebas","nameCompany":"Compensar","service":["Calidad"]}
+### Insert Project  Desarrollo integración
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Desarrollo integración","nameCompany":"Éxito","service":["Desarrollo"]}
+### Insert Project  Arquitectura
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Arquitectura","nameCompany":"Éxito","service":["Desarrollo"]}
+### Insert Project  Calidad
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Calidad","nameCompany":"Éxito","service":["Calidad"]}
+### Insert Project  Proyecto salud en casa
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Proyecto salud en casa","nameCompany":"SURA","service":["Desarrollo"]}
+### Insert Project  Servicio Victor Morales
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Servicio Victor Morales","nameCompany":"SURA","service":["Desarrollo"]}
+### Insert Project  Servicio Manuel Arrieta
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Servicio Manuel Arrieta","nameCompany":"SURA","service":["Desarrollo"]}
+### Insert Project  Servicio Jordan Acosta
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Servicio Jordan Acosta","nameCompany":"SURA","service":["Desarrollo"]}
+### Insert Project  Proyecto ARL
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Proyecto ARL","nameCompany":"SURA","service":["Desarrollo","Calidad"]}
+### Insert Project  Celula Asignaciones
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Celula Asignaciones","nameCompany":"SURA","service":["Desarrollo"]}
+### Insert Project  Servicio David Alejandro Marin
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Servicio David Alejandro Marin","nameCompany":"SURA","service":["Desarrollo"]}
+### Insert Project  Servicio Paula Andrea Jaramillo
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Servicio Paula Andrea Jaramillo","nameCompany":"SURA","service":["Agile"]}
+### Insert Project  Servicio Wilson Osorio
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Servicio Wilson Osorio","nameCompany":"SURA","service":["Desarrollo"]}
+### Insert Project  Agile Services
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Agile Services","nameCompany":"SURA","service":["Agile"]}
+### Insert Project  Proyecto Contingencia
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Proyecto Contingencia","nameCompany":"SURA","service":["Desarrollo"]}
+### Insert Project  Proyecto Ley de Conglomerados
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Proyecto Ley de Conglomerados","nameCompany":"SURA","service":["Desarrollo"]}
+### Insert Project  Calidad
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Calidad","nameCompany":"SURA","service":["Calidad"]}
+### Insert Project  Célula JAVA
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Célula JAVA","nameCompany":"UruIT","service":["Desarrollo"]}
+### Insert Project  Pruebas Farma
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Pruebas Farma","nameCompany":"MooveIT","service":["Calidad"]}
+### Insert Project  Credinet Almacenes
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Credinet Almacenes","nameCompany":"Sistecredito ","service":["Desarrollo","Agile","Calidad"]}
+### Insert Project  Credinet Personas
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Credinet Personas","nameCompany":"Sistecredito ","service":["Desarrollo","Agile","Calidad"]}
+### Insert Project  Desarrollo
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Desarrollo","nameCompany":"Federacion de Municipios","service":["Desarrollo","Agile","Calidad"]}
+### Insert Project  Insourcing
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Insourcing","nameCompany":"Todo1","service":["Desarrollo"]}
+### Insert Project  Proyecto Mobile
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Proyecto Mobile","nameCompany":"Internexa","service":["Desarrollo"]}
+### Insert Project  Proyecto de transformacion ágil
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Proyecto de transformacion ágil","nameCompany":"Pactia","service":["Agile"]}
+### Insert Project  Arquitecto de Datos
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Arquitecto de Datos","nameCompany":"Pactia","service":["Desarrollo"]}
+### Insert Project  Juan Carlos Melo
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Juan Carlos Melo","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Sulivan Davila
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Sulivan Davila","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Naifee Diaz
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Naifee Diaz","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Mery Yolanda Rodriguez
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Mery Yolanda Rodriguez","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Omar Velasquez
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Omar Velasquez","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Sandra Miranda - Alberto de la OZ
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Sandra Miranda - Alberto de la OZ","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Humberto Zapata
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Humberto Zapata","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Jorge Gallego
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Jorge Gallego","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Carlos Piñeros
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Carlos Piñeros","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Johana Casas
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Johana Casas","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Sonia Arias
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Sonia Arias","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Alejandro Carmona
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Alejandro Carmona","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Jenifer Balza
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Jenifer Balza","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Andreliz Velazquez
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Andreliz Velazquez","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Carolina Muñoz
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Carolina Muñoz","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Yady Quevedo
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Yady Quevedo","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Willy Tirado
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Willy Tirado","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Orlando Moreno
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Orlando Moreno","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Leyda Albarran
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Leyda Albarran","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Juan Camilo Zapata Londoño
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Juan Camilo Zapata Londoño","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Johanna Hernandez
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Johanna Hernandez","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Comfama FICA
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Comfama FICA","nameCompany":"SAP","service":["Funcional"]}
+### Insert Project  Jessica Linares - Solman Abbott
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Jessica Linares - Solman Abbott","nameCompany":"SAP","service":["Tecnico"]}
+### Insert Project  Alejandro Daza
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Alejandro Daza","nameCompany":"SAP","service":["Tecnico"]}
+### Insert Project  Fabrica ABAP
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Fabrica ABAP","nameCompany":"SAP","service":["Tecnico"]}
+### Insert Project  Miguel Pacheco
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Miguel Pacheco","nameCompany":"SAP","service":["Tecnico"]}
+### Insert Project  Esteban Mesa - IBM
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Esteban Mesa - IBM","nameCompany":"SAP","service":["Tecnico"]}
+### Insert Project  Esteban Mesa - Solman Crystal / Soporte
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Esteban Mesa - Solman Crystal / Soporte","nameCompany":"SAP","service":["Tecnico"]}
+### Insert Project  Sergio Mesa - Arq Comfama
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Sergio Mesa - Arq Comfama","nameCompany":"SAP","service":["Tecnico"]}
+### Insert Project  Calidad
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Calidad","nameCompany":"SAP","service":["Calidad"]}
+### Insert Project  TP
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"TP","nameCompany":"HiBot","service":["Lic"]}
+### Insert Project  Varios
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Varios","nameCompany":"HiBot","service":["Lic"]}
+### Insert Project  Canales
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Canales","nameCompany":"HiBot","service":["Lic"]}
+### Insert Project  Metro Plataforma
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Metro Plataforma","nameCompany":"PerTrinum","service":["Lic"]}
+### Insert Project  Amedeus
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"Amedeus","nameCompany":"PerTrinum","service":["Ventas"]}
+### Insert Project
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"","nameCompany":"","service":["Lic"]}
+
+### Insert Project
+POST http://dev-apioursofka.sofka.com.co/projects/register
+Content-Type: application/json
+
+{"name":"KeyMetrics","nameCompany":"Sofka","service":["Desarrollo", "Calidad"]}
+
+###

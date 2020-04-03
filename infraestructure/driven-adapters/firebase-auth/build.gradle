@@ -1,0 +1,7 @@
+dependencies {
+    implementation project(':domain-model')
+    implementation('org.springframework:spring-context')
+    implementation 'com.google.firebase:firebase-admin:6.12.2'
+
+}
+

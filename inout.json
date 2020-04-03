@@ -1,0 +1,115 @@
+GET http://localhost:8080/workdone/register/getParameters?dateLong=1583360175000
+content-type: application/json
+//Authorization: token
+
+### OUT
+{
+"projects": [
+{
+"id_project": "11111",
+"projectName": "SURA ARL",
+}
+],
+"hoursTypes": ["Horas Normal", "Horas Extra"],
+"date": "31122020"
+}
+
+
+###
+
+POST http: //localhost:8080/workdone/register
+content-type: application/json
+Authorization: token
+
+{
+"description":"Descricion de la tarea",
+"date": "31122020",
+"id_project": "11111",
+"hours": 9,
+"hoursType": "Horas normal"
+}
+
+
+### OUT
+
+{
+"function": "/workdone/register",
+"message": "OK",
+"code": ""
+}
+
+###
+
+GET http: //localhost:8080/workdone/getByDate?date=31122020&beforeDays=30
+content-type: application/json
+
+
+
+### OUT
+{
+"days" : [
+{
+"date": "01012020",
+"totalHours": 9,
+"workdones" : [
+{
+"id": "123456",
+"date": "01012020",
+"projectName" : "SURA ARL",
+"hours": 3,
+"hourType": "Normal"
+},
+{
+"id": "123457",
+"date": "01012020",
+"projectName": "SURA ARL",
+"hours": 3,
+"hourType" : "Normal"
+},
+{
+"id": "123458",
+"date" : "01012020",
+"projectName": "SURA ARL",
+"hours": 3,
+"hourType": "Normal"
+}
+]
+},
+{
+"date": "02012020",
+"totalHours": 10,
+"workdones": [
+{
+"id": "123459",
+"date": "02012020",
+"projectName" : "SURA ARL",
+"hours": 9,
+"hourType": "Normal"
+},
+{
+"id": "123460",
+"date": "02012020",
+"projectName": "SURA ARL",
+"hours": 1,
+"hourType" : "Extra"
+}
+]
+}
+]
+}
+
+
+###
+
+DELETE http: //localhost:8080/workdone/{id}
+content-type: application/json
+
+
+### OUT
+
+
+{
+"function": "/workdone/delete",
+"message": "OK",
+"code": ""
+}
