@@ -50,9 +50,11 @@ public class WorkDoneQueryController {
                 .collectList()
                 .flatMap(responseDaysWorkDones -> Mono.just(ResponseWorkDone.builder().days(responseDaysWorkDones).build()));
 
+    }
 
-
-
+    @GetMapping
+    public Mono<String> test(String menssage){
+        return Mono.just("Hola".concat(menssage));
     }
 
 
